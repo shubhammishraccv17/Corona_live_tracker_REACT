@@ -30,7 +30,7 @@ const Covid = () => {
         <
         h3 > LIVE < /h3>  <
         h2 > COVID - 19 CoronaVirus Tracker < /h2>  <
-        h4 > Project By team 7 < /h4>  <
+          <
         ul >
         <
         li className = "card" >
