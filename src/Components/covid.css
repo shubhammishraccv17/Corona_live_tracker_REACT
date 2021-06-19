@@ -23,11 +23,12 @@ section h4 {
     transition: 0.3s;
     height:30%;
     width: 30%;
+    padding:75px;
     border-radius: 50%;
     position: relative;
     float: left;
     margin: 02%;
-    margin-left: 20%;
+    margin-left: 10%;
 ;
 }
 
