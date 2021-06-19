@@ -31,6 +31,7 @@ const Covid = () => {
          <div className=" nav-bar nav"><
         h3 > LIVE < /h3>  <
         h2 > COVID - 19 CoronaVirus Tracker < /h2>  
+            </div>
           <
         ul >
         <
