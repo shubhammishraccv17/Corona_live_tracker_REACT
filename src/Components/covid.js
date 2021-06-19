@@ -29,7 +29,7 @@ const Covid = () => {
         section >
         <
         h3 > LIVE < /h3>  <
-        h2 > COVID - 19 CoronaVirus Tracker < /h2>  <
+        h2 > COVID - 19 CoronaVirus Tracker < /h2>  
           <
         ul >
         <
