@@ -26,7 +26,7 @@ const Covid = () => {
 
     return ( < >
         <
-        section >
+        section class ="container" >
         
          <div className=" nav-bar nav"><
         h3 > LIVE < /h3>  <
